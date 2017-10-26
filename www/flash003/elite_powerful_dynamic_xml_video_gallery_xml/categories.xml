@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<category>
+		<title>Video Gallery 1</title>
+		<desc><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit.]]></desc>
+		<xml>elite_powerful_dynamic_xml_video_gallery_xml/category1.xml</xml>
+	</category>
+	<category>
+		<title>Video Gallery 2</title>
+		<desc><![CDATA[Fusce sed nibh. Morbi quis nibh.]]></desc>
+		<xml>elite_powerful_dynamic_xml_video_gallery_xml/category2.xml</xml>
+	</category>
+</content>

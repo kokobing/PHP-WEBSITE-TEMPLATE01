@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<video>
+	<title>Lorem ipsum dolor sit.</title>
+	<flv>http://www.triworks.net/triworks2008/flvs/3d/ken.flv</flv>
+	<flv_width>730</flv_width>
+	<flv_height>390</flv_height>
+	<desc><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur est risus, facilisis non, pulvinar et, placerat rhoncus, magna. Quisque eget pede. Sed est risus, malesuada id, faucibus sed, tempus ac, orci. Nullam porta, erat eget egestas posuere, pede nisi vulputate neque, at aliquet felis nulla at tortor. Curabitur a magna sit amet nisi feugiat viverra. Curabitur risus nisi, mollis vel, sagittis id, sollicitudin ut, elit. Mauris cursus tristique elit. Etiam auctor sem a purus. In vitae est. Integer vitae justo sit amet augue viverra lobortis. Vestibulum malesuada mollis sapien. Aliquam pellentesque ornare arcu. Duis fringilla dictum felis. Sed eget lacus ut erat egestas porttitor. Nam commodo augue at dui.]]></desc>
+	<video_info_visible>true</video_info_visible>
+	<video_on_loop>false</video_on_loop>
+</video>

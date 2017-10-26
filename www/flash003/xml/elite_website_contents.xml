@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+ 
+ 	<mainmenu>
+		<title><![CDATA[首页]]></title>
+		<content>main.swf</content>
+	</mainmenu>
+
+	<mainmenu>
+		<title><![CDATA[关于我们]]></title>
+		<content>elite_html_content_page.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[新闻中心]]></title>
+		<content>elite_xml_news.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[最新产品]]></title>
+		<content>elite_powerful_dynamic_xml_gallery.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[产品中心]]></title>
+		<content>elite_xml_imagegallery.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[产品视频]]></title>
+		<content>elite_video_player.swf</content>
+	</mainmenu>
+	
+		<mainmenu>
+		<title><![CDATA[联系我们]]></title>
+		<content>elite_contact_form.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[SUBMENU]]></title>
+		<content>submenu</content>
+		<submenu>
+			<item>
+				<title_submenu><![CDATA[CONTENT PAGE]]></title_submenu>
+				<content_submenu>elite_html_content_page.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[NEWS]]></title_submenu>
+				<content_submenu>elite_xml_news.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[POWERFUL XML GALLERY]]></title_submenu>
+				<content_submenu>elite_powerful_dynamic_xml_gallery.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[XML IMAGE GALLERY]]></title_submenu>
+				<content_submenu>elite_xml_imagegallery.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[VIDEO PLAYER]]></title_submenu>
+				<content_submenu>elite_video_player.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[XML VIDEO GALLERY]]></title_submenu>
+				<content_submenu>elite_powerful_dynamic_xml_video_gallery.swf</content_submenu>
+			</item>
+			<item>
+				<title_submenu><![CDATA[CONTACT]]></title_submenu>
+				<content_submenu>elite_contact_form.swf</content_submenu>
+			</item>
+		</submenu>
+	</mainmenu>
+	
+
+	
+</xml>

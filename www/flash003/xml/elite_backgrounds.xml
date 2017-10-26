@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<backgrounds>
+	<background tmb="tmb_carbon_02.jpg">backgrounds/bkg_retro_03.swf</background>
+	<background tmb="tmb_float_09.jpg">backgrounds/bkg_float_09.swf</background>
+	<background tmb="tmb_oriental_07.jpg">backgrounds/bkg_oriental_07.swf</background>
+	<background tmb="tmb_retro_03.jpg">backgrounds/bkg_retro_03.swf</background>
+	<background tmb="tmb_victorian_03.jpg">backgrounds/bkg_victorian_03.swf</background>
+	<background tmb="tmb_woods_20.jpg">backgrounds/bkg_woods_20.swf</background>
+</backgrounds>

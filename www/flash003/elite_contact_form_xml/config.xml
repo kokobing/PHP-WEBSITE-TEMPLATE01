@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<isEliteModule>true</isEliteModule>
+	<fullscreen_button_visible>false</fullscreen_button_visible>
+	<background_active>false</background_active>
+	<background_default>backgrounds/bkg_carbon_02.swf</background_default>
+	<default_color>0xEEC800</default_color>
+</config>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+    <settings>
+        <logo X="5" Y="30">content/logo.png</logo>
+        <footer><![CDATA[上海腾岩信息科技有限公司 <font color="#00FFFF"><a href="http://www.ty-sh.com" target="_blank">www.ty-sh.com</a></font>]]></footer>
+        <menu showNav="true"/>
+    </settings>
+    <nav>
+        <main Name="网站首页" Link="home.swf"/>
+        <main Name="关于我们" Link="content.swf" toLoad ="content/window.xml"/>
+        <main Name="案例展示" Link="slideshow.swf"/>
+        <main Name="团队介绍" Link="team.swf"/>
+        <main Name="SUBMENU EXAMPLE">
+                <sub Name="SLIDE SHOW" Link="slideshow.swf"/>
+                <sub Name="CONTENT WINDOW" Link="content.swf" toLoad ="content/window.xml"/>
+                <sub Name="NEWS" Link="news.swf"/>
+      		<sub Name="IMAGE GALLERY" Link="imagegallery.swf"/>
+                <sub Name="VIDEO GALLERY" Link="videogallery.swf"/>
+        </main>
+
+        <main Name="新闻中心" Link="news.swf"/>
+        <main Name="产品中心" Link="imagegallery.swf"/>
+        <main Name="视频展示" Link="videogallery.swf"/>
+        <main Name="联系我们" Link="contact.swf"/>
+    </nav>
+</content>
+
+

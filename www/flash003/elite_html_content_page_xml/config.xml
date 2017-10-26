@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<content_box_padding_horizontal>300</content_box_padding_horizontal>
+	<content_box_padding_vertical>100</content_box_padding_vertical>
+	<text_color>#CCCCCC</text_color>
+	<isEliteModule>true</isEliteModule>
+	<fullscreen_button_visible>false</fullscreen_button_visible>
+	<background_active>false</background_active>
+	<background_default>backgrounds/bkg_carbon_02.swf</background_default>
+</config>

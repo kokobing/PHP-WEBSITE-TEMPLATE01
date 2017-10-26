@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+    <settings>
+        <logo X="5" Y="6">content/logo.png</logo>
+        <footer><![CDATA[上海腾岩信息科技有限公司 <font color="#00FFFF"><a href="http://www.ty-sh.com" target="_blank">www.ty-sh.com</a></font>]]></footer>
+        <menu X="160"/>
+    </settings>
+    <nav>
+        <main Name="首页" Link="home.swf"/>
+		<main Name="关于我们" Link="content.swf" toLoad="content/content.xml"/>
+        <main Name="最新展示" Link="slideshow.swf"/>
+        <main Name="团队介绍" Link="team.swf"/>
+        <main Name="产品中心" Link="media_gallery.swf"/>
+        <main Name="新闻中心" Link="news.swf"/>
+        <main Name="联系我们" Link="contact.swf"/>
+        <main Name="官方博客" Link="http://www.163.com"/>
+		
+		<main Name="STANDALONE GALLERIES" Link="content.swf" toLoad="content/content_about_standalone.xml">
+		<sub Name="IMAGE GALLERY" Link="media_gallery.swf" toLoad="media_gallery/content_image.xml"/>
+		<sub Name="VIDEO GALLERY" Link="media_gallery.swf" toLoad="media_gallery/content_video.xml"/>
+		<sub Name="AUDIO GALLERY" Link="media_gallery.swf" toLoad="media_gallery/content_audio.xml"/>
+		<sub Name="FLASH GALLERY" Link="media_gallery.swf" toLoad="media_gallery/content_flash.xml"/>
+		<sub Name="MIXED MEDIA GALLERY" Link="media_gallery.swf" toLoad="media_gallery/content_mixed.xml"/>
+        </main>
+    </nav>
+</content>
+
+

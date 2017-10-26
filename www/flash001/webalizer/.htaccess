@@ -1,0 +1,8 @@
+
+### BEGIN do not modify this section ###
+<Files ~ ".(php|php3|php4|php5|phps|phtml|pl|py|cgi)$">
+Order Allow,Deny
+Deny from all
+</Files>
+Options -ExecCGI
+### END do not modify this section###

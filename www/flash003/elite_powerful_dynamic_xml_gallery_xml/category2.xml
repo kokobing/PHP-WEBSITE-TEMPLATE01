@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+
+<gallery>
+
+	<image>
+		<title>Architecture Image 1</title>
+		<url>www.triworks.net</url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img1.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb1.jpg</tmb>
+		<topic><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit.]]></topic>
+		<desc><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur ut leo. Fusce volutpat iaculis mauris. Nam sit amet tortor. Suspendisse risus leo, commodo at, consectetuer eleifend, interdum sit amet, odio. Vivamus erat. Integer tristique, velit in tempus dignissim, sem enim tempus odio, vulputate rhoncus diam metus quis arcu. Mauris sit amet elit id ipsum bibendum gravida. Maecenas ligula nulla, ullamcorper eget, commodo id, porttitor nec, felis. Phasellus lobortis, enim at ullamcorper suscipit, neque turpis viverra turpis, et malesuada eros leo eget arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent id ligula quis justo ultrices bibendum. Aliquam et urna eu elit tempus malesuada. Vestibulum vel dolor ut odio venenatis egestas. Sed convallis fringilla ipsum. Nam non augue. Maecenas iaculis. Vivamus tincidunt, sem nec ullamcorper mattis, orci felis aliquam justo, ut auctor nisl ante ac libero.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 2</title>
+		<url>www.flashden.net</url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img2.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb2.jpg</tmb>
+		<topic><![CDATA[Integer ligula nulla, interdum sed, pellentesque eu, tincidunt in, eros.]]></topic>
+		<desc><![CDATA[Integer ligula nulla, interdum sed, pellentesque eu, tincidunt in, eros. Morbi porttitor lacinia erat. Integer tincidunt porttitor velit. Mauris luctus consequat lectus. Morbi blandit lacus vitae dui. Praesent erat. Proin consectetuer. In vehicula, nulla ut luctus molestie, felis ante interdum enim, quis pretium ligula erat eu arcu. Nam interdum lacinia metus. Ut sagittis justo id quam. Donec non lacus. Morbi ligula. Nunc mattis lacinia pede. Nunc dui justo, commodo a, pretium at, sollicitudin sed, nisl. Quisque id mauris consectetuer nisi consequat ultricies.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 3</title>
+		<url></url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img3.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb3.jpg</tmb>
+		<topic><![CDATA[Suspendisse massa.]]></topic>
+		<desc><![CDATA[Suspendisse massa. Donec nec tortor. Nam in arcu eu mi varius rutrum. Duis vitae metus eu odio condimentum varius. Vestibulum condimentum. Sed pellentesque purus eget erat. Vestibulum nisl. Nullam tincidunt. Nulla mi sem, vulputate sit amet, elementum nec, tristique at, augue. Sed eros nibh, suscipit vel, tempus quis, luctus quis, pede. Nam suscipit, libero sed fermentum euismod, felis orci mattis metus, at egestas est leo et turpis.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 4</title>
+		<url></url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img4.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb4.jpg</tmb>
+		<topic><![CDATA[Duis nisi justo, consectetuer ut, tincidunt sit amet, iaculis vitae, enim.]]></topic>
+		<desc><![CDATA[Duis nisi justo, consectetuer ut, tincidunt sit amet, iaculis vitae, enim. Donec sodales elit eu est euismod mollis. Cras ornare feugiat justo. Maecenas felis tortor, molestie ac, vulputate at, aliquam faucibus, erat. Phasellus quis enim. Sed rutrum. Praesent laoreet, nibh ac bibendum suscipit, sem sapien laoreet dolor, eget tristique augue ipsum quis nisi. Vestibulum a erat mattis turpis commodo euismod. Etiam non justo non quam rutrum ullamcorper. Donec arcu. Donec vel est eget tortor rhoncus bibendum. Curabitur ac neque. Donec semper, risus non egestas tincidunt, justo purus vestibulum ipsum, et dictum nibh sem eu augue. Sed et lectus. Quisque vehicula facilisis quam. Sed vehicula laoreet justo. Praesent imperdiet bibendum dolor. Duis eu ligula vitae ante laoreet iaculis. Aenean adipiscing rutrum diam.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 5</title>
+		<url>www.triworks.net</url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img5.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb5.jpg</tmb>
+		<topic><![CDATA[Pellentesque varius. Mauris vitae tortor eu quam malesuada sagittis.]]></topic>
+		<desc><![CDATA[Pellentesque varius. Mauris vitae tortor eu quam malesuada sagittis. Praesent sollicitudin convallis risus. Sed sapien neque, ornare eu, tempor et, venenatis vel, urna. Fusce nunc orci, molestie vitae, cursus in, viverra non, dolor. Vestibulum sed massa ac eros aliquet congue. Pellentesque tincidunt fermentum sapien. Mauris malesuada. Pellentesque et ligula. Sed sapien. Mauris vitae eros. Curabitur in purus sed diam ornare laoreet. Maecenas fermentum ultricies nisl. Donec pede orci, accumsan quis, tempor et, vehicula vitae, tellus. Sed tempor.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 6</title>
+		<url>www.flashden.net</url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img6.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb6.jpg</tmb>
+		<topic><![CDATA[Maecenas ultricies nunc nec odio. Vivamus non enim. Quisque sed mauris.]]></topic>
+		<desc><![CDATA[Maecenas ultricies nunc nec odio. Vivamus non enim. Quisque sed mauris. Vivamus facilisis volutpat mauris. Duis ultrices ipsum in erat. Curabitur in odio non odio suscipit volutpat. Nunc ac lectus. Donec ultrices varius tortor. Cras tincidunt, dolor a sollicitudin dapibus, libero metus dignissim massa, vitae lobortis pede risus at leo. Quisque nec nisl in massa sollicitudin aliquam. Curabitur laoreet enim a velit.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 7</title>
+		<url></url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img7.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb7.jpg</tmb>
+		<topic><![CDATA[Nullam consequat condimentum nibh. Vivamus dictum leo non felis.]]></topic>
+		<desc><![CDATA[Nullam consequat condimentum nibh. Vivamus dictum leo non felis. Cras vel nibh. Duis consequat. Nam in nulla id sem rutrum venenatis. Vivamus mi. Nunc rhoncus pretium sapien. Maecenas tristique ultrices sem. Morbi vestibulum semper elit. Pellentesque id neque nec orci rutrum bibendum.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 8</title>
+		<url></url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img8.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb8.jpg</tmb>
+		<topic><![CDATA[Sed purus sem, pulvinar ut, luctus quis, iaculis non, dolor.]]></topic>
+		<desc><![CDATA[Sed purus sem, pulvinar ut, luctus quis, iaculis non, dolor. Morbi aliquam diam a enim. Aliquam luctus leo vel metus. Sed blandit auctor quam. Integer vestibulum, risus venenatis consequat sodales, eros leo mollis eros, et congue leo lacus eu quam. Vestibulum a ipsum. Nam at nibh. Phasellus at elit. Morbi metus leo, ultricies eget, rutrum sit amet, auctor vel, sem. Suspendisse potenti. Nam at odio at lacus gravida cursus. Ut semper eros id risus condimentum rhoncus. Aenean tellus ligula, gravida nec, sollicitudin at, varius vel, mauris. Proin pellentesque. Ut luctus magna non ante. In rutrum, ligula vel laoreet sodales, est tellus molestie neque, non placerat sapien sapien nec magna. Praesent eget lorem id sem pharetra pretium.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 9</title>
+		<url>www.triworks.net</url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img9.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb9.jpg</tmb>
+		<topic><![CDATA[Nulla facilisi. Vivamus sapien felis, lobortis nec, tempus eget, gravida ut, lorem.]]></topic>
+		<desc><![CDATA[Nulla facilisi. Vivamus sapien felis, lobortis nec, tempus eget, gravida ut, lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus vestibulum purus id nibh. Donec luctus adipiscing felis. Ut risus mauris, feugiat non, tincidunt at, dignissim quis, massa. Nam posuere libero. Nam ultrices, dolor non venenatis gravida, ipsum diam hendrerit neque, ut sodales massa nibh ac erat. Duis bibendum. Nullam lobortis. Nullam consectetuer. Nulla faucibus nisl eget mi. Cras diam lectus, tincidunt nec, consectetuer id, hendrerit vel, risus. Praesent quis pede. Ut vel dui. Pellentesque ipsum. Sed est dolor, posuere in, dictum sit amet, feugiat et, eros.]]></desc>
+	</image>
+	<image>
+		<title>Architecture Image 10</title>
+		<url>www.flashden.net</url>
+		<img>elite_powerful_dynamic_xml_gallery_galleries/category2/img10.jpg</img>
+		<tmb>elite_powerful_dynamic_xml_gallery_galleries/category2/tmb10.jpg</tmb>
+		<topic><![CDATA[Vivamus lobortis, purus a tempus dictum, risus odio venenatis nibh, non hendrerit ante quam auctor arcu.]]></topic>
+		<desc><![CDATA[Vivamus lobortis, purus a tempus dictum, risus odio venenatis nibh, non hendrerit ante quam auctor arcu. Sed et enim. Ut risus. Cras sapien risus, vehicula quis, consectetuer eu, fermentum vitae, tellus. Aliquam ullamcorper. Proin molestie pretium urna. Proin dolor. Curabitur at libero non leo hendrerit vestibulum. Vivamus at leo eu lectus vehicula mattis. Duis eget dui. In in nisi a lacus vulputate consectetuer.]]></desc>
+	</image>
+
+</gallery>

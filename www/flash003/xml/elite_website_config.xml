@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<logo_small>images/logo_small.png</logo_small>
+	<website_color>#FFCC00</website_color>
+	<fullscreen_button_visible>true</fullscreen_button_visible>
+	<background_active>true</background_active>
+	<background_menu_active>true</background_menu_active>
+	<background_default>backgrounds/bkg_float_09.swf</background_default>
+	<audio_console_visible>true</audio_console_visible>
+	<homepage_default>elite_homepage.swf</homepage_default>
+</config>

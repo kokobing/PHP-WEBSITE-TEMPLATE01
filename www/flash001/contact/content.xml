@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="联系我们" companyName="上海腾岩信息科技有限公司" formName="表单反馈">
+    <copy><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><font color="#FFFFFF">联系方式:</font><br>电话: +27 012 123 1234<br>传真: +27 012 123 1234<br>邮箱: <a href="mailto:company@domain.com">company@domain.com</a><br><br><font color="#FFFFFF">地址:</font><br>Your Building Name<br>Street Name<br>City Name<br>Country Name]]></copy>
+</content>

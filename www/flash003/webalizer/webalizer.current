@@ -1,0 +1,195 @@
+# Webalizer V2.20-01 Incremental Data - 11/06/2011 08:51:28
+2011 11 6 8 51 28
+85 68 3 25 5 3 2232974 8 6 0
+2 8 82 1 6
+3 3 77469 1 1 1
+19 17 745640 1 1 1
+22 18 826987 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+41 30 582878 2 4 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+30 23 275703 2
+3 3 141886 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+22 18 826987 2
+0 0 0 0
+27 21 910929 3
+0 0 0 0
+3 3 77469 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+68
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 8 0 2586 6 3
+/elite_xml_news.swf
+0 1 0 13835 0 0
+/backgrounds/tmb_float_09.jpg
+0 3 0 1203 0 0
+/xml/elite_backgrounds.xml
+0 3 0 1680 0 0
+/elite_homepage_xml/config.xml
+0 3 0 399 0 0
+/xml/elite_website_config.xml
+0 4 0 2012 0 0
+/elite_powerful_dynamic_xml_gallery.swf
+0 1 0 13835 0 0
+/main.swf
+0 7 0 555937 0 0
+/backgrounds/tmb_woods_20.jpg
+0 3 0 975 0 0
+/elite_homepage_images/elite_logo.png
+0 3 0 66828 0 0
+/elite_contact_form.swf
+0 1 0 66252 0 0
+/audio/StompBox.mp3
+0 3 0 1328116 0 0
+/elite_contact_form_xml/contact.xml
+0 1 0 444 0 0
+/xml/elite_website_contents.xml
+0 5 0 10460 0 0
+/backgrounds/tmb_carbon_02.jpg
+0 3 0 987 0 0
+/xml/elite_playlist.xml
+0 3 0 4488 0 0
+/elite_contact_form_xml/config.xml
+0 1 0 328 0 0
+/elite_homepage.swf
+0 3 0 101571 0 0
+/backgrounds/tmb_retro_03.jpg
+0 3 0 1152 0 0
+/backgrounds/bkg_float_09.swf
+0 3 0 3423 0 0
+/backgrounds/tmb_victorian_03.jpg
+0 3 0 1185 0 0
+/backgrounds/tmb_oriental_07.jpg
+0 3 0 1116 0 0
+/AC_RunActiveContent.js
+0 8 0 16642 0 0
+/images/logo_small.png
+0 3 0 19584 0 0
+/elite_html_content_page.swf
+0 1 0 13836 0 0
+# End Of Table - urls
+# -sites- (monthly)
+238.105.53.116.broad.km.yn.dynamic.163data.com.cn
+0 35 25 1069745 4 1320569480
+/
+113.126.177.64
+0 31 26 417589 1 1320540997
+/
+182.243.220.113
+0 19 17 745640 1 1320222365
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+238.105.53.116.broad.km.yn.dynamic.163data.com.cn
+0 10 4 165289 2 1320569480
+/
+113.126.177.64
+0 31 26 417589 1 1320540997
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 13
+http://demo5.ty-sh.com/main.swf
+1 45
+http://demo5.ty-sh.com/
+1 15
+http://demo5.ty-sh.com/elite_contact_form.swf
+1 2
+http://demo5.ty-sh.com/elite_homepage.swf
+1 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; 360SE)
+0 27
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 54
+360se
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

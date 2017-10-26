@@ -1,0 +1,8 @@
+#
+# TY-SH.COM moban1
+#
+
+User-agent: *
+Disallow: /admin/
+Disallow: /phpmyadmin/
+Disallow: /inc/

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+
+	<category>
+		<title>Abstract</title>
+		<desc><![CDATA[Triworks.net portfolio images - Abstract]]></desc>
+		<xml>elite_powerful_dynamic_xml_gallery_xml/category1.xml</xml>
+	</category>
+	<category>
+		<title>Architecture</title>
+		<desc><![CDATA[Triworks.net portfolio images - Architecture]]></desc>
+		<xml>elite_powerful_dynamic_xml_gallery_xml/category2.xml</xml>
+	</category>
+	<category>
+		<title>Objects</title>
+		<desc><![CDATA[Triworks.net portfolio images - Objects]]></desc>
+		<xml>elite_powerful_dynamic_xml_gallery_xml/category3.xml</xml>
+	</category>
+	
+</content>
